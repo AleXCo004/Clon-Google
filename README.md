@@ -2,7 +2,7 @@
 ## Descripción
 Hello, this is my first project: **Google-Clon** interface.
 
-En este proyecto utilizamos el editor de código Visual Studio Code y los lenguajes **HTML** y **CSS**.
+En este proyecto utilizamos el editor de código **Visual Studio Code* y los lenguajes **HTML** y **CSS**.
 
 ### Elementos del proyecto.
 
